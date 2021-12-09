@@ -3,15 +3,21 @@
     [
         {
             "id": 0,
-            "name": "corolla"
+            "name": "corolla",
+            "starting price": "$20,075",
+            "colors": "Blueprint, Blue Crush Metallic, Ruby Flare Pearl, Celestite, Classic Silver Metallic, Cement, Wind Chill Pearl, White"
         },
         {
             "id": 1,
-            "name": "camry"
+            "name": "camry",
+            "starting price": "$25,295",
+            "colors": "Blueprint, Ruby Flare Pearl, Midnight Black Metallic, Super White, Wind Chill Pearl, Predawn Gray Mica, Celestial Silver Metallic, Supersonic Red, Ice Edge"
         },
         {
             "id": 2,
-            "name": "prius"
+            "name": "prius",
+            "starting price": "$24,525",
+            "colors": "Midnight Black Metallic, Electric Storm Blue, Sea Glass Pearl, Supersonic Red, Magnetic Gray Metallic, Classic Silver Metallic, Wind Chill Pearl, White"
         }
     ]
 }
