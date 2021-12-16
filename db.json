@@ -5,19 +5,22 @@
             "id": 0,
             "name": "corolla",
             "starting price": "$20,075",
-            "colors": "Blueprint, Blue Crush Metallic, Ruby Flare Pearl, Celestite, Classic Silver Metallic, Cement, Wind Chill Pearl, White"
+            "colors": "Blueprint, Blue Crush Metallic, Ruby Flare Pearl, Celestite, Classic Silver Metallic, Cement, Wind Chill Pearl, White",
+            "image": "https://toyota.scene7.com/is/image/toyota/COR_MY21_0002_V01?wid=2000&fmt=jpg&fit=crop"
         },
         {
             "id": 1,
             "name": "camry",
             "starting price": "$25,295",
-            "colors": "Blueprint, Ruby Flare Pearl, Midnight Black Metallic, Super White, Wind Chill Pearl, Predawn Gray Mica, Celestial Silver Metallic, Supersonic Red, Ice Edge"
+            "colors": "Blueprint, Ruby Flare Pearl, Midnight Black Metallic, Super White, Wind Chill Pearl, Predawn Gray Mica, Celestial Silver Metallic, Supersonic Red, Ice Edge",
+            "image": "https://toyota.scene7.com/is/image/toyota/CAH_MY22_0003_V001-3?wid=2000&fmt=jpg&fit=crop"
         },
         {
             "id": 2,
             "name": "prius",
             "starting price": "$24,525",
-            "colors": "Midnight Black Metallic, Electric Storm Blue, Sea Glass Pearl, Supersonic Red, Magnetic Gray Metallic, Classic Silver Metallic, Wind Chill Pearl, White"
+            "colors": "Midnight Black Metallic, Electric Storm Blue, Sea Glass Pearl, Supersonic Red, Magnetic Gray Metallic, Classic Silver Metallic, Wind Chill Pearl, White",
+            "image": "https://toyota.scene7.com/is/image/toyota/138D_MY22_0006_V001-2?wid=2000&fmt=jpg&fit=crop"
         }
     ]
 }
