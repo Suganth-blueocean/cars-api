@@ -4,7 +4,7 @@
         "city": "d",
         "stateName": "Delaware",
         "stationName": "Station_ABC",
-        "stationId": "De_d_s_7",
+        "stationId": "De_d_s_7"
     },
     {
         "country": "United States",
@@ -12,27 +12,27 @@
         "zipcode": "s",
         "stateName": "South Carolina",
         "stationName": "Station_XYZ",
-        "stationId": "So_s_et_2",
+        "stationId": "So_s_et_2"
     },
     {
         "country": "United States",
         "city": "dq",
         "stateName": "Delaware",
         "stationName": "Station_Delaware",
-        "stationId": "De_dq_st_5",
+        "stationId": "De_dq_st_5"
     },
     {
         "country": "United States",
         "city": "city",
         "stateName": "Alaska",
         "stationName": "station123",
-        "stationId": "Al_ci_st_2",
+        "stationId": "Al_ci_st_2"
     },
     {
         "country": "United States",
         "city": "e",
         "stateName": "Louisiana",
         "stationName": "Station_Lousiana",
-        "stationId": "Lo_e_d_7",
+        "stationId": "Lo_e_d_7"
     }
 ]
