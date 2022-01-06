@@ -1,26 +1,249 @@
-{
-    "cars":
-    [
-        {
-            "id": 0,
-            "name": "corolla",
-            "starting price": "$20,075",
-            "colors": "Blueprint, Blue Crush Metallic, Ruby Flare Pearl, Celestite, Classic Silver Metallic, Cement, Wind Chill Pearl, White",
-            "image": "https://toyota.scene7.com/is/image/toyota/COR_MY21_0002_V01?wid=2000&fmt=jpg&fit=crop"
-        },
-        {
-            "id": 1,
-            "name": "camry",
-            "starting price": "$25,295",
-            "colors": "Blueprint, Ruby Flare Pearl, Midnight Black Metallic, Super White, Wind Chill Pearl, Predawn Gray Mica, Celestial Silver Metallic, Supersonic Red, Ice Edge",
-            "image": "https://toyota.scene7.com/is/image/toyota/CAH_MY22_0003_V001-3?wid=2000&fmt=jpg&fit=crop"
-        },
-        {
-            "id": 2,
-            "name": "prius",
-            "starting price": "$24,525",
-            "colors": "Midnight Black Metallic, Electric Storm Blue, Sea Glass Pearl, Supersonic Red, Magnetic Gray Metallic, Classic Silver Metallic, Wind Chill Pearl, White",
-            "image": "https://toyota.scene7.com/is/image/toyota/138D_MY22_0006_V001-2?wid=2000&fmt=jpg&fit=crop"
-        }
-    ]
-}
+[
+    {
+        "country": "United States",
+        "address": "s",
+        "comments": "",
+        "updatedBy": "521923",
+        "city": "d",
+        "timeZoneOffset": "America/New_York",
+        "vinList": [],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "d",
+        "createdAt": "2021-12-23T05:57:51.483Z",
+        "createdBy": "521923",
+        "stateName": "Delaware",
+        "stationName": "Station_ABC",
+        "stationId": "De_d_s_7",
+        "updatedAt": "2021-12-23T05:57:51.483Z"
+    },
+    {
+        "country": "United States",
+        "address": "s",
+        "comments": "",
+        "updatedBy": "521923",
+        "city": "s",
+        "timeZoneOffset": "America/New_York",
+        "vinList": [],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "s",
+        "createdAt": "2021-12-23T05:40:11.573Z",
+        "createdBy": "521923",
+        "stateName": "South Carolina",
+        "stationName": "Station_XYZ",
+        "stationId": "So_s_et_2",
+        "updatedAt": "2021-12-23T05:40:11.573Z"
+    },
+    {
+        "country": "United States",
+        "address": "s",
+        "comments": "",
+        "updatedBy": "521923",
+        "city": "dq",
+        "timeZoneOffset": "America/New_York",
+        "vinList": [
+            {
+                "vin": "2T3S1RFV5MW155321"
+            },
+            {
+                "vin": "2T3YL4DV6EW002314"
+            },
+            {
+                "vin": "2T3ZFREV1JW459341"
+            },
+            {
+                "vin": "3TMAZ5CN9KM079215"
+            },
+            {
+                "vin": "3TMBZ5DN3HM010693"
+            },
+            {
+                "vin": "3TMCZ5AN0KM189758"
+            },
+            {
+                "vin": "5TFAY5F1XLX881618"
+            },
+            {
+                "vin": "5TFCZ5AN5MX247179"
+            },
+            {
+                "vin": "5TFDY5F10MX995691"
+            },
+            {
+                "vin": "5TFDY5F13MX996818"
+            },
+            {
+                "vin": "5TFDY5F15LX928745"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "d",
+        "createdAt": "2021-12-22T12:28:41.295Z",
+        "createdBy": "521923",
+        "stateName": "Delaware",
+        "stationName": "Station_Delaware",
+        "stationId": "De_dq_st_5",
+        "updatedAt": "2021-12-22T12:30:43.745Z"
+    },
+    {
+        "country": "United States",
+        "address": "address",
+        "comments": "",
+        "updatedBy": ";System-RTID",
+        "city": "city",
+        "timeZoneOffset": "America/Anchorage",
+        "vinList": [
+            {
+                "vin": "2T3W1RFV0MC094091"
+            },
+            {
+                "vin": "2T3S1RFV4MW146996"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "ao[2",
+        "createdAt": "2021-12-15T14:17:36.901Z",
+        "createdBy": "521923",
+        "stateName": "Alaska",
+        "stationName": "station123",
+        "stationId": "Al_ci_st_2",
+        "updatedAt": "2021-12-16T11:32:04.689Z"
+    },
+    {
+        "country": "United States",
+        "address": "d",
+        "comments": "",
+        "updatedBy": "521923",
+        "city": "e",
+        "timeZoneOffset": "America/Chicago",
+        "vinList": [
+            {
+                "vin": "2T3NFREV4HW403158"
+            },
+            {
+                "vin": "2T3W1RFV0MC094091"
+            },
+            {
+                "vin": "5TDERKEC8MS002012"
+            },
+            {
+                "vin": "5TDJZRAH5MS033968"
+            },
+            {
+                "vin": "5TDDZ3DC8LS236278"
+            },
+            {
+                "vin": "5TDDRKEC9MS001429"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "d",
+        "createdAt": "2021-12-14T08:33:06.730Z",
+        "createdBy": "521923",
+        "stateName": "Louisiana",
+        "stationName": "Station_Lousiana",
+        "stationId": "Lo_e_d_7",
+        "updatedAt": "2021-12-16T18:38:52.935Z"
+    },
+    {
+        "country": "United States",
+        "address": "d",
+        "comments": "u",
+        "updatedBy": "521923",
+        "city": "d",
+        "timeZoneOffset": "America/Chicago",
+        "vinList": [
+            {
+                "vin": "2T3W1RFV0MC094091"
+            },
+            {
+                "vin": "2T3J1RFV3KW001988"
+            },
+            {
+                "vin": "2T3J1RFV8KW038678"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "d",
+        "createdAt": "2021-12-14T08:32:49.415Z",
+        "createdBy": "521923",
+        "stateName": "Iowa",
+        "stationName": "Station_Iowa",
+        "stationId": "Io_d_dd_4",
+        "updatedAt": "2021-12-15T13:38:14.625Z"
+    },
+    {
+        "country": "United States",
+        "address": "q",
+        "comments": "d",
+        "updatedBy": "521923",
+        "city": "c ",
+        "timeZoneOffset": "America/New_York",
+        "vinList": [
+            {
+                "vin": "2T3S1RFV2MW153865"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "c",
+        "createdAt": "2021-12-14T08:32:27.303Z",
+        "createdBy": "521923",
+        "stateName": "Delaware",
+        "stationName": "AbcS",
+        "stationId": "De_c _1_6",
+        "updatedAt": "2021-12-14T08:32:27.303Z"
+    },
+    {
+        "country": "United States",
+        "address": "ssssss",
+        "comments": "",
+        "updatedBy": "521923",
+        "city": "city123",
+        "timeZoneOffset": "America/Chicago",
+        "vinList": [
+            {
+                "vin": "3TMBZ5DN2HM007798"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "cccc",
+        "createdAt": "2021-12-13T15:21:31.072Z",
+        "createdBy": "521923",
+        "stateName": "Kansas",
+        "stationName": "stat123",
+        "stationId": "Ka_ci_st_3",
+        "updatedAt": "2021-12-13T15:23:41.540Z"
+    },
+    {
+        "country": "United States",
+        "address": "s",
+        "comments": "u1",
+        "updatedBy": ";System-RTID",
+        "city": "city",
+        "timeZoneOffset": "America/Chicago",
+        "vinList": [
+            {
+                "vin": "2T3DWRFV9KW011780"
+            },
+            {
+                "vin": "2T3J1RFV3KW001988"
+            }
+        ],
+        "dealerCd": "04160",
+        "isVisible": true,
+        "zipcode": "124",
+        "createdAt": "2021-12-13T10:46:47.262Z",
+        "createdBy": "521923",
+        "stateName": "Alabama",
+        "stationName": "Station_bbb",
+        "stationId": "Al_ci_St_9",
+        "updatedAt": "2021-12-16T12:16:30.483Z"
+    }
+]
