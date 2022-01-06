@@ -1,5 +1,7 @@
-[
-    {
+{
+    "stations":
+    [
+        {
         "country": "United States",
         "city": "d",
         "stateName": "Delaware",
@@ -36,3 +38,4 @@
         "stationId": "Lo_e_d_7"
     }
 ]
+}
