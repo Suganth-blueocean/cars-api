@@ -1,152 +1,38 @@
 [
     {
         "country": "United States",
-        "address": "s",
-        "comments": "",
-        "updatedBy": "521923",
         "city": "d",
-        "timeZoneOffset": "America/New_York",
-        "vinList": [],
-        "dealerCd": "04160",
-        "isVisible": true,
-        "zipcode": "d",
-        "createdAt": "2021-12-23T05:57:51.483Z",
-        "createdBy": "521923",
         "stateName": "Delaware",
         "stationName": "Station_ABC",
         "stationId": "De_d_s_7",
-        "updatedAt": "2021-12-23T05:57:51.483Z"
     },
     {
         "country": "United States",
-        "address": "s",
-        "comments": "",
-        "updatedBy": "521923",
         "city": "s",
-        "timeZoneOffset": "America/New_York",
-        "vinList": [],
-        "dealerCd": "04160",
-        "isVisible": true,
         "zipcode": "s",
-        "createdAt": "2021-12-23T05:40:11.573Z",
-        "createdBy": "521923",
         "stateName": "South Carolina",
         "stationName": "Station_XYZ",
         "stationId": "So_s_et_2",
-        "updatedAt": "2021-12-23T05:40:11.573Z"
     },
     {
         "country": "United States",
-        "address": "s",
-        "comments": "",
-        "updatedBy": "521923",
         "city": "dq",
-        "timeZoneOffset": "America/New_York",
-        "vinList": [
-            {
-                "vin": "2T3S1RFV5MW155321"
-            },
-            {
-                "vin": "2T3YL4DV6EW002314"
-            },
-            {
-                "vin": "2T3ZFREV1JW459341"
-            },
-            {
-                "vin": "3TMAZ5CN9KM079215"
-            },
-            {
-                "vin": "3TMBZ5DN3HM010693"
-            },
-            {
-                "vin": "3TMCZ5AN0KM189758"
-            },
-            {
-                "vin": "5TFAY5F1XLX881618"
-            },
-            {
-                "vin": "5TFCZ5AN5MX247179"
-            },
-            {
-                "vin": "5TFDY5F10MX995691"
-            },
-            {
-                "vin": "5TFDY5F13MX996818"
-            },
-            {
-                "vin": "5TFDY5F15LX928745"
-            }
-        ],
-        "dealerCd": "04160",
-        "isVisible": true,
-        "zipcode": "d",
-        "createdAt": "2021-12-22T12:28:41.295Z",
-        "createdBy": "521923",
         "stateName": "Delaware",
         "stationName": "Station_Delaware",
         "stationId": "De_dq_st_5",
-        "updatedAt": "2021-12-22T12:30:43.745Z"
     },
     {
         "country": "United States",
-        "address": "address",
-        "comments": "",
-        "updatedBy": ";System-RTID",
         "city": "city",
-        "timeZoneOffset": "America/Anchorage",
-        "vinList": [
-            {
-                "vin": "2T3W1RFV0MC094091"
-            },
-            {
-                "vin": "2T3S1RFV4MW146996"
-            }
-        ],
-        "dealerCd": "04160",
-        "isVisible": true,
-        "zipcode": "ao[2",
-        "createdAt": "2021-12-15T14:17:36.901Z",
-        "createdBy": "521923",
         "stateName": "Alaska",
         "stationName": "station123",
         "stationId": "Al_ci_st_2",
-        "updatedAt": "2021-12-16T11:32:04.689Z"
     },
     {
         "country": "United States",
-        "address": "d",
-        "comments": "",
-        "updatedBy": "521923",
         "city": "e",
-        "timeZoneOffset": "America/Chicago",
-        "vinList": [
-            {
-                "vin": "2T3NFREV4HW403158"
-            },
-            {
-                "vin": "2T3W1RFV0MC094091"
-            },
-            {
-                "vin": "5TDERKEC8MS002012"
-            },
-            {
-                "vin": "5TDJZRAH5MS033968"
-            },
-            {
-                "vin": "5TDDZ3DC8LS236278"
-            },
-            {
-                "vin": "5TDDRKEC9MS001429"
-            }
-        ],
-        "dealerCd": "04160",
-        "isVisible": true,
-        "zipcode": "d",
-        "createdAt": "2021-12-14T08:33:06.730Z",
-        "createdBy": "521923",
         "stateName": "Louisiana",
         "stationName": "Station_Lousiana",
         "stationId": "Lo_e_d_7",
-        "updatedAt": "2021-12-16T18:38:52.935Z"
     },
 ]
